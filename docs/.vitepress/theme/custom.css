@@ -42,9 +42,9 @@
   --vp-home-hero-image-background-image: radial-gradient(circle at 50% 50%, rgba(0, 217, 255, 0.2), rgba(8, 18, 31, 0));
   --vp-home-hero-image-filter: drop-shadow(0 0 40px rgba(0, 217, 255, 0.16));
 
-  --vp-button-brand-text: #03111a;
-  --vp-button-brand-bg: linear-gradient(135deg, #72f5ff 0%, #00d9ff 50%, #58b5ff 100%);
-  --vp-button-brand-hover-bg: linear-gradient(135deg, #98f8ff 0%, #30e3ff 50%, #78c4ff 100%);
+  --vp-button-brand-text: #04131d;
+  --vp-button-brand-bg: linear-gradient(135deg, #b6fbff 0%, #72f5ff 22%, #00d9ff 58%, #58b5ff 100%);
+  --vp-button-brand-hover-bg: linear-gradient(135deg, #d4fdff 0%, #98f8ff 22%, #30e3ff 58%, #78c4ff 100%);
   --vp-button-brand-border: transparent;
   --vp-button-alt-text: var(--sa-text);
   --vp-button-alt-bg: rgba(255, 255, 255, 0.03);
@@ -342,6 +342,13 @@ h6,
   letter-spacing: 0.04em;
   text-transform: uppercase;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+}
+
+.VPButton.brand,
+.VPButton.brand:hover,
+.VPButton.brand:visited {
+  color: #04131d !important;
+  text-shadow: none;
 }
 
 .VPFeature,

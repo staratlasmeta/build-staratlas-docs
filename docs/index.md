@@ -3,7 +3,7 @@ layout: home
 hero:
   name: Star Atlas Build
   text: Build the ecosystem
-  tagline: Modern docs for developers, creators, and community builders shipping in the Star Atlas universe, with a cleaner GitHub Pages stack and a more polished sci-fi shell.
+  tagline: Modern docs for developers, creators, and community builders shipping in the Star Atlas universe.
   image:
     src: /images/star-atlas-build-hero.png
     alt: Star Atlas Build
@@ -24,8 +24,8 @@ features:
   - title: Developer-focused
     details: APIs, program IDs, on-chain systems, Unreal tooling, and protocol references for Star Atlas-connected products.
     link: /dev-resources/approach-and-philosophy
-  - title: GitHub-native
-    details: Markdown content, generated navigation, clean URLs, local search, and a Pages deployment path that is easy to maintain.
+  - title: Easy to navigate
+    details: Clear paths into creative assets, APIs, tooling, and live game systems for teams getting up to speed quickly.
 ---
 
 <div class="home-shell">
@@ -48,9 +48,9 @@ features:
       <span>Rules, rights, monetization, royalties, and asset access for community projects.</span>
     </div>
     <div class="signal-card">
-      <em>Stack</em>
-      <strong>GitHub Pages</strong>
-      <span>Markdown-first content, generated navigation, and a deploy flow built to stay simple.</span>
+      <em>Experience</em>
+      <strong>Modern docs</strong>
+      <span>Fast navigation, readable structure, and a polished interface built for serious builders.</span>
     </div>
     <div class="signal-card">
       <em>Audience</em>
