@@ -2,8 +2,8 @@
 layout: home
 hero:
   name: Star Atlas Build
-  text: Resources for builders
-  tagline: Build tools, games, content, and community projects in the Star Atlas ecosystem, now on a GitHub Pages-ready VitePress stack with synced markdown docs.
+  text: Build the ecosystem
+  tagline: Modern docs for developers, creators, and community builders shipping in the Star Atlas universe, with a cleaner GitHub Pages stack and a more polished sci-fi shell.
   image:
     src: /images/star-atlas-build-hero.png
     alt: Star Atlas Build
@@ -18,34 +18,73 @@ hero:
       text: Browse Creative Assets
       link: /creative-assets/building-with-star-atlas-creative-ip
 features:
-  - title: Creative assets
-    details: Use official art, logos, lore guidance, and licensing docs for community projects and IP-based creations.
+  - title: Creator-ready
+    details: Official IP guidance, asset access, monetization rules, royalties, and creator program links in one place.
     link: /creative-assets/building-with-star-atlas-creative-ip
-  - title: Dev resources
-    details: Explore APIs, program IDs, on-chain systems, SDKs, and Unreal tooling for Star Atlas-connected apps and games.
+  - title: Developer-focused
+    details: APIs, program IDs, on-chain systems, Unreal tooling, and protocol references for Star Atlas-connected products.
     link: /dev-resources/approach-and-philosophy
-  - title: GitHub Pages ready
-    details: Clean URLs, local search, custom domain support, redirect handling, and a sync script are already wired up.
+  - title: GitHub-native
+    details: Markdown content, generated navigation, clean URLs, local search, and a Pages deployment path that is easy to maintain.
 ---
 
-# Welcome, builders
+<div class="home-shell">
+  <p class="eyebrow">Builder network</p>
+  <h2 class="section-title">A cleaner command deck for the Star Atlas builder ecosystem</h2>
+  <p class="section-copy">
+    This hub is for teams and solo builders shipping tools, integrations, experiences, content, and businesses around Star Atlas.
+    The goal is straightforward, make the docs feel modern, fast, legible, and unmistakably Star Atlas without drifting into theme-park sci-fi.
+  </p>
 
-Star Atlas Build makes it possible to create tools, games, content, and more using the Star Atlas IP, with no fees until you reach $1M in gross revenue.
-
-Star Atlas is not just a game, it is a growing ecosystem powered by developers, creators, and community builders. This site is the documentation hub for that work.
-
-<div class="home-panels">
-  <div class="home-panel">
-    <h3>What you can build</h3>
-    <p>Dashboards, automation tools, games, merch, lore projects, rental systems, and other community experiences.</p>
+  <div class="signal-grid">
+    <div class="signal-card">
+      <em>Surface</em>
+      <strong>Technical docs</strong>
+      <span>Structured references for APIs, programs, tooling, and game systems.</span>
+    </div>
+    <div class="signal-card">
+      <em>IP layer</em>
+      <strong>Creative guidance</strong>
+      <span>Rules, rights, monetization, royalties, and asset access for community projects.</span>
+    </div>
+    <div class="signal-card">
+      <em>Stack</em>
+      <strong>GitHub Pages</strong>
+      <span>Markdown-first content, generated navigation, and a deploy flow built to stay simple.</span>
+    </div>
+    <div class="signal-card">
+      <em>Audience</em>
+      <strong>Builders</strong>
+      <span>Developers, creators, lore teams, merch teams, and ecosystem operators.</span>
+    </div>
   </div>
-  <div class="home-panel">
-    <h3>Where to start</h3>
-    <p>Begin with the introduction docs, then choose either creative assets or developer resources based on your project.</p>
-  </div>
-  <div class="home-panel">
-    <h3>How this site works</h3>
-    <p>Content stays in markdown, navigation is generated from the live GitBook sitemap, and deployment targets GitHub Pages.</p>
+</div>
+
+<div class="home-shell">
+  <p class="eyebrow">Choose your lane</p>
+  <h2 class="section-title">Start from the path that matches what you are shipping</h2>
+
+  <div class="path-grid">
+    <div class="path-card">
+      <div class="path-meta">For developers</div>
+      <h3><a href="/dev-resources/apis-and-data">APIs and Data</a></h3>
+      <p>Data endpoints, SDK-adjacent resources, Galaxy API references, and program integration surfaces.</p>
+    </div>
+    <div class="path-card">
+      <div class="path-meta">For protocol builders</div>
+      <h3><a href="/dev-resources/on-chain-game-systems">On-Chain Game Systems</a></h3>
+      <p>Player Profile, Galactic Marketplace, Faction Fleet, and related protocol docs for live systems.</p>
+    </div>
+    <div class="path-card">
+      <div class="path-meta">For creators</div>
+      <h3><a href="/creative-assets/building-with-star-atlas-creative-ip">Creative Assets</a></h3>
+      <p>Official IP guidance, asset usage, creator requirements, royalties, and Powered by the People details.</p>
+    </div>
+    <div class="path-card">
+      <div class="path-meta">For UE workflows</div>
+      <h3><a href="/dev-resources/unreal-engine-tooling">Unreal Engine Tooling</a></h3>
+      <p>F-Kit setup, blueprint support, and engine-side references for Star Atlas production pipelines.</p>
+    </div>
   </div>
 </div>
 
@@ -55,33 +94,34 @@ Star Atlas is not just a game, it is a growing ecosystem powered by developers, 
 - [What is Build?](/introduction/what-is-build)
 - [What You Can Build](/introduction/what-you-can-build)
 
-## Quick paths
+<div class="home-shell">
+  <p class="eyebrow">Fast access</p>
+  <h2 class="section-title">Most-used sections</h2>
 
-<div class="quick-links">
-  <div class="quick-link-card">
-    <h3><a href="/creative-assets/building-with-star-atlas-creative-ip">Creative Assets</a></h3>
-    <p>Official IP guidance, asset access, monetization rules, royalties, and creator program links.</p>
+  <div class="quick-links">
+    <div class="quick-link-card">
+      <h3><a href="/creative-assets/star-atlas-powered-by-the-people">Powered by the People</a></h3>
+      <p>Program guidance for community-built products using Star Atlas IP and monetization rules.</p>
+    </div>
+    <div class="quick-link-card">
+      <h3><a href="/dev-resources/mainnet-program-ids">Mainnet Program IDs</a></h3>
+      <p>Quick lookup for production program addresses and integration references.</p>
+    </div>
+    <div class="quick-link-card">
+      <h3><a href="/dev-resources/program-security">Program Security</a></h3>
+      <p>Security posture, disclosures, and the policies builders should review before shipping around live programs.</p>
+    </div>
+    <div class="quick-link-card">
+      <h3><a href="/developer-rpc-initiative">Developer RPC Initiative</a></h3>
+      <p>Infrastructure support and access guidance for teams building serious products around the ecosystem.</p>
+    </div>
   </div>
-  <div class="quick-link-card">
-    <h3><a href="/dev-resources/apis-and-data">APIs and Data</a></h3>
-    <p>SDKs, APIs, data endpoints, and Galaxy API references for Star Atlas-integrated applications.</p>
-  </div>
-  <div class="quick-link-card">
-    <h3><a href="/dev-resources/on-chain-game-systems">On-Chain Game Systems</a></h3>
-    <p>Player Profile, Galactic Marketplace, Faction Fleet, and related protocol documentation.</p>
-  </div>
-  <div class="quick-link-card">
-    <h3><a href="/dev-resources/unreal-engine-tooling">Unreal Engine Tooling</a></h3>
-    <p>F-Kit setup, blueprints, and documentation for Unreal-based Star Atlas workflows.</p>
-  </div>
+
+  <p class="home-note">
+    Community builders are already shipping dashboards, automation tools, games, commerce flows, comics, lore projects, rental systems, and other ecosystem experiences.
+  </p>
 </div>
-
-## Builders are already shipping
-
-Community builders have already created automation tools, data dashboards, books and comics, apparel, games, apps, explorers, and rental systems.
-
-If you are building with Star Atlas IP, review [Powered by the People](/creative-assets/star-atlas-powered-by-the-people). If you are building technical tools, jump into [Dev Resources](/dev-resources/approach-and-philosophy).
 
 ## Need help or feedback?
 
-Join the [Star Atlas Discord](https://discord.com/invite/staratlas) and drop into the community developer channels to share feedback, ask questions, and show what you are building.
+Join the [Star Atlas Discord](https://discord.com/invite/staratlas) and drop into the community developer channels to ask questions, share feedback, and show what you are building.
