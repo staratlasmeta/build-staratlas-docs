@@ -49,7 +49,7 @@ export default defineConfig({
       text: 'Last updated'
     },
     footer: {
-      message: 'Public docs rebuilt with VitePress and tuned for GitHub Pages.',
+      message: 'Official builder docs for the Star Atlas ecosystem.',
       copyright: 'Star Atlas Build'
     }
   },

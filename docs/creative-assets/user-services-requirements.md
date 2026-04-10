@@ -2,7 +2,7 @@
 
 If you're building with Star Atlas IP, there are a few important rules you’ll need to follow\
 These help protect the integrity of the Star Atlas brand while giving you the freedom to create, publish and monetize your project\
-Here’s a quick summary of what’s expected but always refer to the [Terms of Service](https://staratlas.com/terms-of-service) for the full legal details
+Here’s a quick summary of what’s expected but always refer to the [Terms of Service](https://experience.staratlas.com/terms-of-service) for the full legal details
 
 * **Notify Us.** You must complete the [**Creators' Form**](https://docs.google.com/forms/d/1koPfnGWW06AF9z09lHjtI1f19ZZy9cLF4OgnKI24S4w) to get started.
 * **Disclaimer.** You must include this disclaimer prominently:  **“\[Name of Your User Service] is inspired by Star Atlas. STAR ATLAS and STAR ATLAS: POWERED BY THE PEOPLE are trademarks or registered trademarks of ATMTA, Inc. in the United States of America and elsewhere.”**

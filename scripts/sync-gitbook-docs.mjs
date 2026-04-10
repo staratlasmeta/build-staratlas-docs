@@ -128,10 +128,13 @@ function postProcessMarkdown(pathname, markdown) {
       .replace(').\nLet’s build together!', ').\n\nLet’s build together!')
   }
 
-  return processed.replace(
-    /\/creative-assets\/building-with-star-atlas-creative-ip\/royalties/g,
-    '/creative-assets/royalties'
-  )
+  return processed
+    .replace(
+      /\/creative-assets\/building-with-star-atlas-creative-ip\/royalties/g,
+      '/creative-assets/royalties'
+    )
+    .replace(/https:\/\/staratlas\.com\/terms-of-service/g, 'https://experience.staratlas.com/terms-of-service')
+    .replace(/https:\/\/staratlas\.com\/privacy-policy/g, 'https://experience.staratlas.com/privacy-policy')
 }
 
 function createNode(segment = '', fullPath = '/') {

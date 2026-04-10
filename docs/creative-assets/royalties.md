@@ -2,7 +2,7 @@
 
 If your project earns more than $1 million USD in lifetime Gross Revenue, here’s what happens next
 
-Under the Star Atlas [Terms of Service](https://staratlas.com/terms-of-service), if your product or service generates over $1M USD in gross revenue, you’ll need to pay royalties only on the amount beyond that threshold.
+Under the Star Atlas [Terms of Service](https://experience.staratlas.com/terms-of-service), if your product or service generates over $1M USD in gross revenue, you’ll need to pay royalties only on the amount beyond that threshold.
 
 This system keeps the ecosystem fair, supports open IP acces and helps sustain ongoing development while still rewarding creators
 
