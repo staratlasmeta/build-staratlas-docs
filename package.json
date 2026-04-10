@@ -1,0 +1,19 @@
+{
+  "name": "build-staratlas-docs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub Pages-ready VitePress replacement for build.staratlas.com",
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "sync": "node scripts/sync-gitbook-docs.mjs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

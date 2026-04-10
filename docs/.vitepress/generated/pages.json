@@ -1,0 +1,303 @@
+[
+  {
+    "order": 1,
+    "pathname": "/introduction/what-is-star-atlas",
+    "route": "/introduction/what-is-star-atlas",
+    "title": "What is Star Atlas?",
+    "filePath": "docs/introduction/what-is-star-atlas.md"
+  },
+  {
+    "order": 2,
+    "pathname": "/introduction/what-is-build",
+    "route": "/introduction/what-is-build",
+    "title": "What is Build?",
+    "filePath": "docs/introduction/what-is-build.md"
+  },
+  {
+    "order": 3,
+    "pathname": "/introduction/what-you-can-build",
+    "route": "/introduction/what-you-can-build",
+    "title": "What You Can Build",
+    "filePath": "docs/introduction/what-you-can-build.md"
+  },
+  {
+    "order": 4,
+    "pathname": "/creative-assets/building-with-star-atlas-creative-ip",
+    "route": "/creative-assets/building-with-star-atlas-creative-ip",
+    "title": "Building With Star Atlas Creative IP",
+    "filePath": "docs/creative-assets/building-with-star-atlas-creative-ip.md"
+  },
+  {
+    "order": 5,
+    "pathname": "/creative-assets/star-atlas-assets",
+    "route": "/creative-assets/star-atlas-assets",
+    "title": "Star Atlas Assets",
+    "filePath": "docs/creative-assets/star-atlas-assets.md"
+  },
+  {
+    "order": 6,
+    "pathname": "/creative-assets/star-atlas-powered-by-the-people",
+    "route": "/creative-assets/star-atlas-powered-by-the-people",
+    "title": "Star Atlas: Powered by the People",
+    "filePath": "docs/creative-assets/star-atlas-powered-by-the-people.md"
+  },
+  {
+    "order": 7,
+    "pathname": "/creative-assets/user-services-requirements",
+    "route": "/creative-assets/user-services-requirements",
+    "title": "User Services Requirements",
+    "filePath": "docs/creative-assets/user-services-requirements.md"
+  },
+  {
+    "order": 8,
+    "pathname": "/creative-assets/royalties",
+    "route": "/creative-assets/royalties",
+    "title": "Royalties",
+    "filePath": "docs/creative-assets/royalties.md"
+  },
+  {
+    "order": 9,
+    "pathname": "/creative-assets/creators-form",
+    "route": "/creative-assets/creators-form",
+    "title": "Creators Form",
+    "filePath": "docs/creative-assets/creators-form.md"
+  },
+  {
+    "order": 10,
+    "pathname": "/dev-resources/star-frame",
+    "route": "/dev-resources/star-frame",
+    "title": "Star Frame",
+    "filePath": "docs/dev-resources/star-frame.md"
+  },
+  {
+    "order": 11,
+    "pathname": "/dev-resources/approach-and-philosophy",
+    "route": "/dev-resources/approach-and-philosophy",
+    "title": "Approach and Philosophy",
+    "filePath": "docs/dev-resources/approach-and-philosophy.md"
+  },
+  {
+    "order": 12,
+    "pathname": "/dev-resources/mainnet-program-ids",
+    "route": "/dev-resources/mainnet-program-ids",
+    "title": "Mainnet Program IDs",
+    "filePath": "docs/dev-resources/mainnet-program-ids.md"
+  },
+  {
+    "order": 13,
+    "pathname": "/dev-resources/apis-and-data",
+    "route": "/dev-resources/apis-and-data",
+    "title": "APIs and Data",
+    "filePath": "docs/dev-resources/apis-and-data.md"
+  },
+  {
+    "order": 14,
+    "pathname": "/dev-resources/apis-and-data/crew",
+    "route": "/dev-resources/apis-and-data/crew",
+    "title": "Crew",
+    "filePath": "docs/dev-resources/apis-and-data/crew.md"
+  },
+  {
+    "order": 15,
+    "pathname": "/dev-resources/apis-and-data/data-source",
+    "route": "/dev-resources/apis-and-data/data-source",
+    "title": "Data Source",
+    "filePath": "docs/dev-resources/apis-and-data/data-source.md"
+  },
+  {
+    "order": 16,
+    "pathname": "/dev-resources/apis-and-data/sage",
+    "route": "/dev-resources/apis-and-data/sage",
+    "title": "SAGE",
+    "filePath": "docs/dev-resources/apis-and-data/sage.md"
+  },
+  {
+    "order": 17,
+    "pathname": "/dev-resources/apis-and-data/cargo",
+    "route": "/dev-resources/apis-and-data/cargo",
+    "title": "Cargo",
+    "filePath": "docs/dev-resources/apis-and-data/cargo.md"
+  },
+  {
+    "order": 18,
+    "pathname": "/dev-resources/apis-and-data/crafting",
+    "route": "/dev-resources/apis-and-data/crafting",
+    "title": "Crafting",
+    "filePath": "docs/dev-resources/apis-and-data/crafting.md"
+  },
+  {
+    "order": 19,
+    "pathname": "/dev-resources/apis-and-data/profile-faction",
+    "route": "/dev-resources/apis-and-data/profile-faction",
+    "title": "Profile Faction",
+    "filePath": "docs/dev-resources/apis-and-data/profile-faction.md"
+  },
+  {
+    "order": 20,
+    "pathname": "/dev-resources/apis-and-data/player-profile",
+    "route": "/dev-resources/apis-and-data/player-profile",
+    "title": "Player Profile",
+    "filePath": "docs/dev-resources/apis-and-data/player-profile.md"
+  },
+  {
+    "order": 21,
+    "pathname": "/dev-resources/apis-and-data/atlas-prime",
+    "route": "/dev-resources/apis-and-data/atlas-prime",
+    "title": "Atlas Prime",
+    "filePath": "docs/dev-resources/apis-and-data/atlas-prime.md"
+  },
+  {
+    "order": 22,
+    "pathname": "/dev-resources/apis-and-data/claim-stakes",
+    "route": "/dev-resources/apis-and-data/claim-stakes",
+    "title": "Claim Stakes",
+    "filePath": "docs/dev-resources/apis-and-data/claim-stakes.md"
+  },
+  {
+    "order": 23,
+    "pathname": "/dev-resources/apis-and-data/factory",
+    "route": "/dev-resources/apis-and-data/factory",
+    "title": "Factory",
+    "filePath": "docs/dev-resources/apis-and-data/factory.md"
+  },
+  {
+    "order": 24,
+    "pathname": "/dev-resources/apis-and-data/galaxy-api",
+    "route": "/dev-resources/apis-and-data/galaxy-api",
+    "title": "Galaxy API",
+    "filePath": "docs/dev-resources/apis-and-data/galaxy-api.md"
+  },
+  {
+    "order": 25,
+    "pathname": "/dev-resources/apis-and-data/galaxy-api/items",
+    "route": "/dev-resources/apis-and-data/galaxy-api/items",
+    "title": "Items",
+    "filePath": "docs/dev-resources/apis-and-data/galaxy-api/items.md"
+  },
+  {
+    "order": 26,
+    "pathname": "/dev-resources/apis-and-data/galaxy-api/tokens",
+    "route": "/dev-resources/apis-and-data/galaxy-api/tokens",
+    "title": "Tokens",
+    "filePath": "docs/dev-resources/apis-and-data/galaxy-api/tokens.md"
+  },
+  {
+    "order": 27,
+    "pathname": "/dev-resources/apis-and-data/galaxy-api/showroom",
+    "route": "/dev-resources/apis-and-data/galaxy-api/showroom",
+    "title": "Showroom",
+    "filePath": "docs/dev-resources/apis-and-data/galaxy-api/showroom.md"
+  },
+  {
+    "order": 28,
+    "pathname": "/dev-resources/apis-and-data/galactic-marketplace",
+    "route": "/dev-resources/apis-and-data/galactic-marketplace",
+    "title": "Galactic Marketplace",
+    "filePath": "docs/dev-resources/apis-and-data/galactic-marketplace.md"
+  },
+  {
+    "order": 29,
+    "pathname": "/dev-resources/apis-and-data/fleet-rentals",
+    "route": "/dev-resources/apis-and-data/fleet-rentals",
+    "title": "Fleet Rentals",
+    "filePath": "docs/dev-resources/apis-and-data/fleet-rentals.md"
+  },
+  {
+    "order": 30,
+    "pathname": "/dev-resources/on-chain-game-systems",
+    "route": "/dev-resources/on-chain-game-systems",
+    "title": "On-Chain Game Systems",
+    "filePath": "docs/dev-resources/on-chain-game-systems.md"
+  },
+  {
+    "order": 31,
+    "pathname": "/dev-resources/on-chain-game-systems/player-profile",
+    "route": "/dev-resources/on-chain-game-systems/player-profile",
+    "title": "Player Profile",
+    "filePath": "docs/dev-resources/on-chain-game-systems/player-profile.md"
+  },
+  {
+    "order": 32,
+    "pathname": "/dev-resources/on-chain-game-systems/galactic-marketplace",
+    "route": "/dev-resources/on-chain-game-systems/galactic-marketplace",
+    "title": "Galactic Marketplace",
+    "filePath": "docs/dev-resources/on-chain-game-systems/galactic-marketplace.md"
+  },
+  {
+    "order": 33,
+    "pathname": "/dev-resources/on-chain-game-systems/galactic-marketplace/fees",
+    "route": "/dev-resources/on-chain-game-systems/galactic-marketplace/fees",
+    "title": "Fees",
+    "filePath": "docs/dev-resources/on-chain-game-systems/galactic-marketplace/fees.md"
+  },
+  {
+    "order": 34,
+    "pathname": "/dev-resources/on-chain-game-systems/faction-fleet",
+    "route": "/dev-resources/on-chain-game-systems/faction-fleet",
+    "title": "Faction Fleet",
+    "filePath": "docs/dev-resources/on-chain-game-systems/faction-fleet.md"
+  },
+  {
+    "order": 35,
+    "pathname": "/dev-resources/program-security",
+    "route": "/dev-resources/program-security",
+    "title": "Program Security",
+    "filePath": "docs/dev-resources/program-security.md"
+  },
+  {
+    "order": 36,
+    "pathname": "/dev-resources/unreal-engine-tooling",
+    "route": "/dev-resources/unreal-engine-tooling",
+    "title": "Unreal Engine Tooling",
+    "filePath": "docs/dev-resources/unreal-engine-tooling.md"
+  },
+  {
+    "order": 37,
+    "pathname": "/dev-resources/unreal-engine-tooling/how-to-setup-f-kit-in-your-project",
+    "route": "/dev-resources/unreal-engine-tooling/how-to-setup-f-kit-in-your-project",
+    "title": "How To Setup F-Kit in Your Project",
+    "filePath": "docs/dev-resources/unreal-engine-tooling/how-to-setup-f-kit-in-your-project.md"
+  },
+  {
+    "order": 38,
+    "pathname": "/dev-resources/unreal-engine-tooling/how-to-use-f-kit-blueprints",
+    "route": "/dev-resources/unreal-engine-tooling/how-to-use-f-kit-blueprints",
+    "title": "How To Use F-Kit Blueprints",
+    "filePath": "docs/dev-resources/unreal-engine-tooling/how-to-use-f-kit-blueprints.md"
+  },
+  {
+    "order": 39,
+    "pathname": "/dev-resources/unreal-engine-tooling/f-kit-documentation",
+    "route": "/dev-resources/unreal-engine-tooling/f-kit-documentation",
+    "title": "F-Kit - Documentation",
+    "filePath": "docs/dev-resources/unreal-engine-tooling/f-kit-documentation.md"
+  },
+  {
+    "order": 40,
+    "pathname": "/developer-rpc-initiative",
+    "route": "/developer-rpc-initiative",
+    "title": "Developer RPC Initiative",
+    "filePath": "docs/developer-rpc-initiative.md"
+  },
+  {
+    "order": 41,
+    "pathname": "/legal/terms-of-service",
+    "route": "/legal/terms-of-service",
+    "title": "Terms of Service",
+    "filePath": "docs/legal/terms-of-service.md"
+  },
+  {
+    "order": 42,
+    "pathname": "/legal/privacy-policy",
+    "route": "/legal/privacy-policy",
+    "title": "Privacy Policy",
+    "filePath": "docs/legal/privacy-policy.md"
+  },
+  {
+    "order": 43,
+    "pathname": "/legal/disclaimers",
+    "route": "/legal/disclaimers",
+    "title": "Disclaimers",
+    "filePath": "docs/legal/disclaimers.md"
+  }
+]
