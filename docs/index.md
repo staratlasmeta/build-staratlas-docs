@@ -3,7 +3,7 @@ layout: home
 hero:
   name: Star Atlas Build
   text: Build the ecosystem
-  tagline: Modern docs for developers, creators, and community builders shipping in the Star Atlas universe.
+  tagline: Docs for developers, creators, and community builders shipping in the Star Atlas universe.
   image:
     src: /images/star-atlas-build-hero.png
     alt: Star Atlas Build

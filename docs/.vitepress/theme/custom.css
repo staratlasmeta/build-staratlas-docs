@@ -426,6 +426,8 @@ h6,
 
 .section-title {
   margin: 0 0 0.85rem;
+  padding-top: 0;
+  border-top: 0;
   font-size: clamp(1.5rem, 3vw, 2.3rem);
   line-height: 1.05;
 }
